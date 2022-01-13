@@ -1,2 +1,4 @@
-concat.*
+dg_toast.js
+dg_toast.css
+package-lock.json
 node_modules
